@@ -28,7 +28,7 @@ tags: #spinnaker #infra #gcp #kubernate #gke
 ```
 [ ingress load balancer ] -------- > [ deck ]
                           |
-						  +------- > [ gate ]
+                          +------- > [ gate ]
 
 ```
 
