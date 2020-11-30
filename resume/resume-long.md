@@ -7,7 +7,7 @@
 
 <div style="display: grid; grid-gap: 5px; grid-auto-columns: 50%;">
     <div style="grid-column: 1;">
-        <b> Language </b>: Solidity, Python, Java, Elixir, Bash scripts
+        <b> Language </b>: Solidity, Python, Elixir, Bash scripts, Java
     </div>
     <div style="grid-column: 2;">
         <b> Tools </b>: GCP, Docker, Kubernetes, Truffle, Spring, AWS, Django
@@ -83,12 +83,12 @@ We (at least) triple the speed of the school's judging system by enabling distri
 
 <div style="display: grid; grid-gap: 15px; grid-auto-columns: 50%;">
     <div style="grid-column: 1;">
-        <b>National Taiwan University</b> </br>
+        <b>National Taiwan University</b> <br>
 		<sub><sup> Master of Science in Networking and Multimedia </sup></sub>
        <sub style="float: right"><sup> 2015 ~ 2017   </sup></sub>
     </div>
     <div style="grid-column: 2;">
-        <b>National Tsing Hua University</b> </br>
+        <b>National Tsing Hua University</b><br>
 		<sub><sup> Bachelor of Computer Science (GPA 4.04/4.30) </sup></sub>
        <sub style="float: right"><sup> 2011 ~ 2015   </sup></sub>
     </div>
